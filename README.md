@@ -9,8 +9,9 @@
 ## 🧠 About Me
 ```txt
 👤 Name        : Sineth  
-🎮 Role        : Gamer | Developer  
-💻 Languages   : Python, JavaScript, HTML, CSS  
-🕹️ Engines     : Unreal Engine (Beginner)  
-⚙️ Interests   : Game Dev, Bots, Automation, Cyber Tech  
+🎮 Role        : Developer  
+💻 Languages   : Python, JavaScript, HTML, CSS, C#
+🕹️ Engines     : Unreal Engine (Beginner) , Blander 
+⚙️ Interests   : Game Dev, Bots, Automation, Computer Science  
 🚀 Goal        : Build games & powerful tools
+
